@@ -14,9 +14,10 @@ E-mail: elena.malova@gmail.com
 
 #### Software Engineer ####
 Microsoft LEAP Apprenticeship
-* Implemented multi-factor authentication with using one-time passwords from Authenticator mobile application.
 
 *Jan 2020 – Present*
+
+* Implemented multi-factor authentication with using one-time passwords from Authenticator mobile application.
 
 #### Senior Software Engineer ####
 CQG. Moscow, Russia
