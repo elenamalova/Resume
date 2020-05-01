@@ -4,11 +4,11 @@ Cell phone: +1 (425) 647-5417
 E-mail: elena.malova@gmail.com
 
 #### SUMMARY ####
-* Software Engineer. Over 7 years of C++ Programming.
-* Strong understanding of algorithms and data structures.
-* Experience in ORACLE databases.
-* Passion for good design, clean code, and testing.
-* Effective analytical and communication skills.
+*  7+ years of experience designing, building, maintaining, and integrating software products.
+* Proficient in C++, Oracle and quickly learning of new technologies.
+* Experience building client/server applications, web services, multiple components products.
+* Strong desire to learn a cloud-based systems.
+* Passion for product quality and enforcement of it by automated testing. 
 
 #### EXPERIENCE ####
 
@@ -17,7 +17,7 @@ Microsoft LEAP Apprenticeship
 
 *Jan 2020 – Present*
 
-* Implemented multi-factor authentication with using one-time passwords from Authenticator mobile application.
+* Development of 2FA in Azure Active Directory B2C with using Authenticator applications in C#, JavaScript. Implemented pages for user sign up with QR code for enabling 2FA, and sign in for one-time password verification.
 
 #### Senior Software Engineer ####
 CQG. Moscow, Russia
@@ -33,8 +33,7 @@ and trading.
 design, implementation, testing and code inspection.
 * Optimized and improved the legacy components, implementation and integration of new
 trading interfaces in C++.
-* Implemented and supported basic and DeMark studies (graphics and technical analysis
-tools that are used in charts of CQG IC).
+* Implemented and supported basic and DeMark studies ((The DeMark Indicators are graphics and technical analysis tools​ that are used in charts of CQG IC and offer customers a deeper, more detailed market evaluation).
 * Implemented the internal automation scripts in Python for testing of new features of
 studies in different versions of CQG IC.
 
@@ -43,12 +42,9 @@ Atempo. Moscow, Russia
 
 *Nov 2006 - May 2008*
 
-* Took part in implementation of a test automation tool for LiveServ 3.0 for Exchange
-(Exchange backup software) in C++.
-* Maintained the Time Navigator - data protection application for MS Exchange. Improved
-a single email recovery process.
-* Reworked the LiveServ (Self-Service Recovery) service to make compatible with Time
-Navigator application.
+* Took a part in implementation of a test automation tool for LiveServ 3.0 for MS Exchange (Exchange backup software) in C++, MAPI.
+* Maintained the CDP-based (Continuous Data Protection) backup system, named LiveBackup. (LiveBackup intercepts user data on the file system driver layer and sends them on the server. Later, based on server information the LiveBackup allows to restore any file, folder and the whole operation system at any point of time.) Improved a single email recovery process.
+* Reworked the LiveServ (Self-Service Recovery) service to make it compatible with the new company product Time Navigator application.
 
 #### Software Engineer ####
 LUXOFT, Dell EMEA IT. Moscow, Russia   
